@@ -12,6 +12,10 @@
   
   <img width="960" alt="1" src="https://user-images.githubusercontent.com/92988830/151717613-6d56dd2a-d59e-48a6-8055-35ca84df2af2.png">
   
+  Now let's try to insert a new user into the users table. We use our declared statement above with the method 'executeQuery()'. The SQL query 'INSERT INTO users VALUES()' is given as argument to the method. Then we declare another resultSet and show its output on the console.
 
   <img width="960" alt="2" src="https://user-images.githubusercontent.com/92988830/151717675-4921d69f-0278-4f6f-b46c-dc65378a1532.png">
+  
+  We check if 'georges hanna' was added to the table from the local server.
+  
   <img width="674" alt="3" src="https://user-images.githubusercontent.com/92988830/151717677-aca9ced3-9507-4215-9df9-8e3712e7277f.png">
